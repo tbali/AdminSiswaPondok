@@ -1,2 +1,2 @@
-# AdminSiswaPondok
-Aplikasi Administrasi Siswa Pondok - BordingSchool Administration Application
+# AdPes
+Aplikasi Administrasi Siswa Pesantren - BordingSchool Administration Application
